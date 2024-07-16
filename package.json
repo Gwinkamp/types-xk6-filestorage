@@ -1,0 +1,14 @@
+{
+  "name": "@gwinkamp/types-xk6-filestorage",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Gwinkamp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gwinkamp/types-xk6-filestorage.git"
+  },
+  "projects": [
+    "https://github.com/Gwinkamp/xk6-filestorage"
+  ]
+}
